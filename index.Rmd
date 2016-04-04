@@ -1,6 +1,6 @@
 ---
 title       : Vanna, Volga and Charm
-subtitle    : 
+subtitle    : Moscow Option Conference
 author      : Oleg Mubarakshin
 job         : 
 framework   : revealjs        # {io2012, html5slides, shower, dzslides, ...}
@@ -12,6 +12,8 @@ knit        : slidify::knit2slides
 --- 
 
 ## Vanna Volga Charm
+
+
 
 --- .class #id
 
