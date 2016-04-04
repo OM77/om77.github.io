@@ -1,17 +1,23 @@
 ---
-title       : Vanna, Volga and Charm
+title       : "Vanna, Volga and Charm"
 subtitle    : Moscow Option Conference
 author      : Oleg Mubarakshin
-job         : 
+job         : 123
 framework   : revealjs        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : []            # {mathjax, quiz, bootstrap}
-mode        : selfcontained # {standalone, draft}
+mode        : selfcontained #{selfcontained, standalone, draft}
 knit        : slidify::knit2slides
 --- 
 
-## Vanna Volga Charm
+## Vanna, Volga and Charm
+
+Moscow Option Conference
+
+2016-04-09
+
+ITinvest
 
 
 
