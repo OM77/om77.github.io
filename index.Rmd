@@ -9,7 +9,11 @@ hitheme     : tomorrow      #
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
----
+--- 
+
+## Vanna Volga Charm
+
+--- .class #id
 
 ## Read-And-Delete
 
